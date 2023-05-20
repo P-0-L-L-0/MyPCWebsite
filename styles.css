@@ -2,7 +2,27 @@
     border: 2px solid red;
   }
   
-  div {
+* {
     text-align: center
   }
-  
+
+body {
+    background-image: url(../MyPCWebsite/Images/websiteA.jpg);
+  }
+
+.top-page > .external-links {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+.external-links > div {
+    border: 3px solid black;
+    width: 200px;
+    background-color:lightslategray
+    
+  }
+
+.flexbox-container {
+    display: flex
+    flex-direction: column
+  }
