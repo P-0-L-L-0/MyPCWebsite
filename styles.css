@@ -1,5 +1,5 @@
 * {
-    border: 2px solid red;
+    border: 1px solid red;
   }
   
 * {
@@ -27,7 +27,8 @@ position: absolute;
 top: 20%;
 right: 10%;
 font-size: 400%;
-font-family: sans-serif;
+font-family: 'Dosis', sans-serif;
+font-style:oblique
 }
 
 .flexbox-header > heading {
