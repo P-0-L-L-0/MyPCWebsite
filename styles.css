@@ -22,7 +22,15 @@ body {
     
   }
 
-.flexbox-container {
-    display: flex
-    flex-direction: column
+.top-right {
+position: absolute;
+top: 20%;
+right: 10%;
+font-size: 400%;
+font-family: sans-serif;
+}
+
+.flexbox-header > heading {
+  display: flex
+  
   }
