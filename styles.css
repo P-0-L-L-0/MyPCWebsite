@@ -32,7 +32,14 @@ font-family: 'Dosis', sans-serif;
 font-style:oblique
 }
 
+.imageBlur {
+  box-shadow: 0px 10px 20px 0px
+}
+
 .flexbox-header > heading {
   display: flex
-  
   }
+
+.explanation {
+  display: flex;
+}
