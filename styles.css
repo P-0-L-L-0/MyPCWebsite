@@ -1,6 +1,4 @@
-* {
-    border: 1px solid red;
-  }
+
   
 * {
     text-align: center
@@ -42,4 +40,10 @@ font-style:oblique
 
 .explanation {
   display: flex;
+  justify-content: flex-start;
+}
+
+.partialCurve {
+  border-radius: 10px 20px 30px 40px/30px;
+  width: 15%;
 }
